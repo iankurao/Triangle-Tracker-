@@ -15,7 +15,7 @@ Some of the languages incorporated to come up with the program include;
 
 ## Link to live website
 
-https//iankurao.github.io/Triangle-Tracker-/
+https://iankurao.github.io/Triangle-Tracker-/
 
 
 ## Contact Information

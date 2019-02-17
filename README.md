@@ -5,24 +5,20 @@
 ## Description
    This is a program one can use to define the type of a triangle.there are usually three basic triangles.These are Equilateral,Isosceles and Scalene.By the use of the values inputed by the user,the program is able to determine what type of a triangle it is.
 
-##Setup instructions
+###Setup instructions
 
-- git clone https://github.com/iankurao/Triangle-Tracker-.git
-- cd Triangle-Tracker-
-- atom .
-
-##Technology used
+####Technology used
 Some of the languages incorporated to come up with the program include;
   -Javascript
   -HTML
   -CSS
 
-##Contact Information
+#####Contact Information
 
 Email: kuraoian@gmail.com
 phone: 0723475550
 
-### License
+###### License
 MIT License
 
 Copyright (c) [2019] [Ian Kurao]

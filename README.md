@@ -1,4 +1,4 @@
-# Triangle-Tracker-
+# Triangle-Tracker-Project
 
 #  Author:Ian Kurao
 

@@ -6,7 +6,8 @@
    This is a program one can use to define the type of a triangle.there are usually three basic triangles.These are Equilateral,Isosceles and Scalene.By the use of the values inputed by the user,the program is able to determine what type of a triangle it is.
 
 ## Setup instructions
-- `git clone https://github.com/sam10105/Triangle-Tracker-.git`
+- `On the top right,Fork the account`
+- `git clone https://github.com/iankurao/Triangle-Tracker-.git`
 - `cd Triangle-Tracker-`
 - `atom .`
 

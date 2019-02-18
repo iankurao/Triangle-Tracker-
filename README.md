@@ -7,7 +7,7 @@
 
 ## Setup instructions
    "press the fork button"
-   
+
    "open the project using atom"
 
 
@@ -27,6 +27,10 @@ https://iankurao.github.io/Triangle-Tracker-/
 Email: kuraoian@gmail.com
 
 phone: 0723475550
+
+whatsapp: 0723475550
+
+slack:@Ian
 
 ## License
 MIT License

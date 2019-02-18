@@ -7,8 +7,9 @@
 
 ## Setup instructions
    "press the fork button"
-   "open the project using atom"
    
+   "open the project using atom"
+
 
 ## Technology used
 Some of the languages incorporated to come up with the program include;
